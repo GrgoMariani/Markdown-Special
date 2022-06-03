@@ -1,7 +1,7 @@
 # Markdown-Special
  Less known MD options on GitHub
 
-## MATH
+## Math
 
 [More info here](https://github.blog/2022-05-19-math-support-in-markdown/)
 
